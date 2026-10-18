@@ -2,7 +2,7 @@
 
 Compiled feedback preview of the Vitral website.
 
-Source: private repository `Vitral-Grup/vitral-landing`, commit `c9667ac3218b30a94d63e6bdbfb48e2545341f4b`.
+Source: private repository `Vitral-Grup/vitral-landing`, commit `5a7c2ef460bc42b3fbb8dda47265ef5e9260830b`.
 
 Published at https://vitral-grup.github.io/vitral-landing-preview/
 
